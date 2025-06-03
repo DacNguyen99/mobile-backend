@@ -1,0 +1,64 @@
+backend/
+├── src/
+│   ├── achievements/
+│   │   ├── achievements.controller.ts
+│   │   ├── achievements.module.ts
+│   │   ├── achievements.service.ts
+│   │   └── achievements.entity.ts
+│   ├── categories/
+│   │   ├── categories.controller.ts
+│   │   ├── categories.module.ts
+│   │   ├── categories.service.ts
+│   │   └── categories.entity.ts
+│   ├── comments/
+│   │   ├── comments.controller.ts
+│   │   ├── comments.module.ts
+│   │   ├── comments.service.ts
+│   │   └── comments.entity.ts
+│   ├── finance_links/
+│   │   ├── finance_links.controller.ts
+│   │   ├── finance_links.module.ts
+│   │   ├── finance_links.service.ts
+│   │   └── finance_links.entity.ts
+│   ├── followers/
+│   │   ├── followers.controller.ts
+│   │   ├── followers.module.ts
+│   │   ├── followers.service.ts
+│   │   └── followers.entity.ts
+│   ├── is_archive/
+│   │   ├── is_archive.controller.ts
+│   │   ├── is_archive.module.ts
+│   │   ├── is_archive.service.ts
+│   │   └── is_archive.entity.ts
+│   ├── notifications/
+│   │   ├── notifications.controller.ts
+│   │   ├── notifications.module.ts
+│   │   ├── notifications.service.ts
+│   │   └── notifications.entity.ts
+│   ├── plan_component/
+│   │   ├── plan_component.controller.ts
+│   │   ├── plan_component.module.ts
+│   │   ├── plan_component.service.ts
+│   │   └── plan_component.entity.ts
+│   ├── posts/
+│   │   ├── posts.controller.ts
+│   │   ├── posts.module.ts
+│   │   ├── posts.service.ts
+│   │   └── posts.entity.ts
+│   ├── recipes/
+│   │   ├── recipes.controller.ts
+│   │   ├── recipes.module.ts
+│   │   ├── recipes.service.ts
+│   │   └── recipes.entity.ts
+│   ├── users/
+│   │   ├── users.controller.ts
+│   │   ├── users.module.ts
+│   │   ├── users.service.ts
+│   │   └── users.entity.ts
+│   ├── app.module.ts
+│   ├── main.ts
+├── .env
+├── nest-cli.json
+├── package.json
+├── tsconfig.json
+└── README.md
